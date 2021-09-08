@@ -1,0 +1,14 @@
+body{
+    font-family: 'Luckiest Guy', cursive;
+}
+#card{
+    border: 20px solid goldenrod;
+    border-radius: 20px;
+}
+
+#card-image{
+    transition:all 1s ease-in-out;
+}
+#card-image:hover{
+    transform: scale(1.2);
+}
